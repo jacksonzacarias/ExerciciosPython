@@ -16,3 +16,4 @@ if ninformado == numero:
     print("Parabens você acertou o numero")
 else:
     print(f"Infelimente você errou!  O numero que eu pensei é o {numero}")
+print("teste")
